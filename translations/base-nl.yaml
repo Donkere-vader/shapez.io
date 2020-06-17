@@ -118,6 +118,7 @@ demoBanners:
 
 mainMenu:
     play: Spelen
+    continue: Speel verder
     changelog: Changelog
     importSavegame: Importeren
     openSourceHint: Dit spel is open source!
